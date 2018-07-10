@@ -1,0 +1,12 @@
+{
+  "name": "lua-quest",
+  "version": "0.0.1",
+  "main": "quest/init.lua",
+  "files": [
+    "quest",
+    "*.rockspec"
+  ],
+  "devDependencies": {
+    "wch-moon": "^0.0.1"
+  }
+}
